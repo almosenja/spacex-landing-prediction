@@ -38,4 +38,4 @@ The dataset consists of information about SpaceX Falcon 9 launches, including da
 - Support Vector Machine (SVM)
 
 ## Results
-The best model (Logistic Regression and SVM) achieved an accuracy of 83% on the test dataset. 
+The best model achieved an accuracy of 85% on the test dataset. 
